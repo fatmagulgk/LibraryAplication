@@ -1,0 +1,2 @@
+# LibraryAplication
+ConsoleApp
